@@ -8,7 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-data
+*archive*
 copy_table.ipynb
 repomix-output.xml
-analysis_output

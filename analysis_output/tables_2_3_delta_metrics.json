@@ -1,0 +1,366 @@
+{
+    "bpb_generative_impact": [
+        {
+            "family": "BLOOM",
+            "erased_concept": "ace",
+            "Mean_BPB_Delta": 0.00842561264989963,
+            "Standard_Error": 0.0010021163079071299
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "ban",
+            "Mean_BPB_Delta": 0.004321446029604698,
+            "Standard_Error": 0.000664779416380145
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "dut",
+            "Mean_BPB_Delta": 0.011990604439685191,
+            "Standard_Error": 0.002402444347947338
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "eng",
+            "Mean_BPB_Delta": 0.011065155103736386,
+            "Standard_Error": 0.002415289773393934
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "jav",
+            "Mean_BPB_Delta": 0.000289705879079742,
+            "Standard_Error": 0.0004168945803549155
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "sun",
+            "Mean_BPB_Delta": 0.004007597993935122,
+            "Standard_Error": 0.000983986271663148
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "ace",
+            "Mean_BPB_Delta": 0.05927704181390655,
+            "Standard_Error": 0.01835657796839594
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "ban",
+            "Mean_BPB_Delta": 0.06212581629152301,
+            "Standard_Error": 0.018045591697727275
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "dut",
+            "Mean_BPB_Delta": 0.04232120050221755,
+            "Standard_Error": 0.009658092179061871
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "eng",
+            "Mean_BPB_Delta": 0.07309440276889942,
+            "Standard_Error": 0.016026513454568105
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "jav",
+            "Mean_BPB_Delta": 0.034378430984117365,
+            "Standard_Error": 0.014231828972024308
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "sun",
+            "Mean_BPB_Delta": 0.057273242816939005,
+            "Standard_Error": 0.01244832444089595
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "ace",
+            "Mean_BPB_Delta": 0.21216931949818707,
+            "Standard_Error": 0.09399397920294432
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "ban",
+            "Mean_BPB_Delta": 0.010984681248436273,
+            "Standard_Error": 0.003188742516870738
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "dut",
+            "Mean_BPB_Delta": 0.02102781838986386,
+            "Standard_Error": 0.0038800160210143834
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "eng",
+            "Mean_BPB_Delta": 1.005255258249765,
+            "Standard_Error": 0.17023076619386887
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "jav",
+            "Mean_BPB_Delta": 0.00370179734379527,
+            "Standard_Error": 0.002050561181138298
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "sun",
+            "Mean_BPB_Delta": 0.005423937847213168,
+            "Standard_Error": 0.0027058075972547983
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "ace",
+            "Mean_BPB_Delta": 0.05888271992293692,
+            "Standard_Error": 0.006304332155268941
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "ban",
+            "Mean_BPB_Delta": 0.035134885223936346,
+            "Standard_Error": 0.005457717159489368
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "dut",
+            "Mean_BPB_Delta": 0.06547352867199877,
+            "Standard_Error": 0.006772032396383741
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "eng",
+            "Mean_BPB_Delta": 0.14438619117908105,
+            "Standard_Error": 0.008756995390331338
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "jav",
+            "Mean_BPB_Delta": 0.013278186124483423,
+            "Standard_Error": 0.0027804329602698465
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "sun",
+            "Mean_BPB_Delta": 0.016336192625879625,
+            "Standard_Error": 0.002409091646158037
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "ace",
+            "Mean_BPB_Delta": 0.14222949185704387,
+            "Standard_Error": 0.08140812362244601
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "ban",
+            "Mean_BPB_Delta": 0.011978533361390119,
+            "Standard_Error": 0.0013258290394250049
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "dut",
+            "Mean_BPB_Delta": 0.02274995889328183,
+            "Standard_Error": 0.006163187897314828
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "eng",
+            "Mean_BPB_Delta": 0.42612515858403227,
+            "Standard_Error": 0.13349797914535633
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "jav",
+            "Mean_BPB_Delta": 0.009137806269303678,
+            "Standard_Error": 0.0011647465480312646
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "sun",
+            "Mean_BPB_Delta": 0.008751531763864156,
+            "Standard_Error": 0.001274430463874619
+        }
+    ],
+    "layer_separability_impact": [
+        {
+            "family": "BLOOM",
+            "erased_concept": "ace",
+            "Mean_Probe_Acc_Delta": -0.0039192497730255,
+            "Standard_Error": 0.0032808752789205762
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "ban",
+            "Mean_Probe_Acc_Delta": -0.002355709075927726,
+            "Standard_Error": 0.001200764252807815
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "dut",
+            "Mean_Probe_Acc_Delta": 0.00135525107383728,
+            "Standard_Error": 0.000911269676959344
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "eng",
+            "Mean_Probe_Acc_Delta": -0.003662426471710189,
+            "Standard_Error": 0.0009003933633250083
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "jav",
+            "Mean_Probe_Acc_Delta": -0.00119774580001831,
+            "Standard_Error": 0.0006459780440733109
+        },
+        {
+            "family": "BLOOM",
+            "erased_concept": "sun",
+            "Mean_Probe_Acc_Delta": -0.0025881135463714537,
+            "Standard_Error": 0.0011423955853760506
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "ace",
+            "Mean_Probe_Acc_Delta": -0.14903290390968324,
+            "Standard_Error": 0.02990730235729413
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "ban",
+            "Mean_Probe_Acc_Delta": -0.007715281248092669,
+            "Standard_Error": 0.013875079256866575
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "dut",
+            "Mean_Probe_Acc_Delta": 0.011992459297180156,
+            "Standard_Error": 0.004095845854140295
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "eng",
+            "Mean_Probe_Acc_Delta": -0.0947725963592529,
+            "Standard_Error": 0.02244297480001252
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "jav",
+            "Mean_Probe_Acc_Delta": 0.007819880247116065,
+            "Standard_Error": 0.0032129883919978365
+        },
+        {
+            "family": "Gemma 3",
+            "erased_concept": "sun",
+            "Mean_Probe_Acc_Delta": 0.006743377447128269,
+            "Standard_Error": 0.005886570749007704
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "ace",
+            "Mean_Probe_Acc_Delta": -0.3191335654258728,
+            "Standard_Error": 0.04735502123491863
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "ban",
+            "Mean_Probe_Acc_Delta": -0.12570734292268754,
+            "Standard_Error": 0.03451674205841139
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "dut",
+            "Mean_Probe_Acc_Delta": -0.0014659130573272633,
+            "Standard_Error": 0.0009009309368605482
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "eng",
+            "Mean_Probe_Acc_Delta": -0.18035597115755078,
+            "Standard_Error": 0.03386633873888207
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "jav",
+            "Mean_Probe_Acc_Delta": -0.05778222233057022,
+            "Standard_Error": 0.0272290588950388
+        },
+        {
+            "family": "Llama 3.2",
+            "erased_concept": "sun",
+            "Mean_Probe_Acc_Delta": -0.07953865975141525,
+            "Standard_Error": 0.03092180761905407
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "ace",
+            "Mean_Probe_Acc_Delta": -0.06913242697715759,
+            "Standard_Error": 0.014210086350693324
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "ban",
+            "Mean_Probe_Acc_Delta": 0.2736630463600158,
+            "Standard_Error": 0.03716889580794304
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "dut",
+            "Mean_Probe_Acc_Delta": -0.007402322888374308,
+            "Standard_Error": 0.0027317923076575885
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "eng",
+            "Mean_Probe_Acc_Delta": 0.13275087922811507,
+            "Standard_Error": 0.027194502518664877
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "jav",
+            "Mean_Probe_Acc_Delta": 0.164986397922039,
+            "Standard_Error": 0.02697109776831936
+        },
+        {
+            "family": "Pythia",
+            "erased_concept": "sun",
+            "Mean_Probe_Acc_Delta": 0.062210224568843814,
+            "Standard_Error": 0.009506937785908201
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "ace",
+            "Mean_Probe_Acc_Delta": -0.42039538502693174,
+            "Standard_Error": 0.04989652621577347
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "ban",
+            "Mean_Probe_Acc_Delta": -0.1716429200768471,
+            "Standard_Error": 0.03923488879011429
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "dut",
+            "Mean_Probe_Acc_Delta": -0.0030011677742004263,
+            "Standard_Error": 0.0012217577495375008
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "eng",
+            "Mean_Probe_Acc_Delta": -0.30468104273080826,
+            "Standard_Error": 0.048753367972246914
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "jav",
+            "Mean_Probe_Acc_Delta": -0.18913851469755172,
+            "Standard_Error": 0.04265593918518843
+        },
+        {
+            "family": "Qwen 2.5",
+            "erased_concept": "sun",
+            "Mean_Probe_Acc_Delta": -0.24505828976631164,
+            "Standard_Error": 0.04398242264205647
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "scaling_generative_impact": [
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-560m",
+            "Parameters_M": 560,
+            "Mean_BPB_Delta": 0.6283076726395019,
+            "Standard_Error": 0.26334289401517286
+        },
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-1b1",
+            "Parameters_M": 1100,
+            "Mean_BPB_Delta": 0.01161237731977573,
+            "Standard_Error": 0.003161577605570863
+        },
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-1b7",
+            "Parameters_M": 1700,
+            "Mean_BPB_Delta": 0.012747058679504123,
+            "Standard_Error": 0.00487861639934524
+        },
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-3b",
+            "Parameters_M": 3000,
+            "Mean_BPB_Delta": 0.011065155103736386,
+            "Standard_Error": 0.002415289773393934
+        },
+        {
+            "family": "Gemma 3",
+            "model": "google_gemma-3-270m-it",
+            "Parameters_M": 270,
+            "Mean_BPB_Delta": 0.059188520573076685,
+            "Standard_Error": 0.010768927999468105
+        },
+        {
+            "family": "Gemma 3",
+            "model": "google_gemma-3-1b-it",
+            "Parameters_M": 1000,
+            "Mean_BPB_Delta": 0.033605881973238286,
+            "Standard_Error": 0.009199772448065673
+        },
+        {
+            "family": "Gemma 3",
+            "model": "google_gemma-3-4b-it",
+            "Parameters_M": 4000,
+            "Mean_BPB_Delta": 0.07309440276889942,
+            "Standard_Error": 0.016026513454568105
+        },
+        {
+            "family": "Llama 3.2",
+            "model": "meta-llama_Llama-3.2-1B",
+            "Parameters_M": 1000,
+            "Mean_BPB_Delta": 1.836308761931836,
+            "Standard_Error": 0.24309164203330125
+        },
+        {
+            "family": "Llama 3.2",
+            "model": "meta-llama_Llama-3.2-3B",
+            "Parameters_M": 3000,
+            "Mean_BPB_Delta": 1.005255258249765,
+            "Standard_Error": 0.17023076619386887
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-14m",
+            "Parameters_M": 14,
+            "Mean_BPB_Delta": 0.30191108046679266,
+            "Standard_Error": 0.007497179273855912
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-31m",
+            "Parameters_M": 31,
+            "Mean_BPB_Delta": 0.3099316413783492,
+            "Standard_Error": 0.006125636653952336
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-70m",
+            "Parameters_M": 70,
+            "Mean_BPB_Delta": 0.17664011238328117,
+            "Standard_Error": 0.015039288935001298
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-160m",
+            "Parameters_M": 160,
+            "Mean_BPB_Delta": 0.22775710526977824,
+            "Standard_Error": 0.018530288821629826
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-410m",
+            "Parameters_M": 410,
+            "Mean_BPB_Delta": 0.32496147508652756,
+            "Standard_Error": 0.0410906585328994
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-1b",
+            "Parameters_M": 1000,
+            "Mean_BPB_Delta": 0.32673189990312534,
+            "Standard_Error": 0.0597594130467335
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-1.4b",
+            "Parameters_M": 1400,
+            "Mean_BPB_Delta": 0.16056948347989106,
+            "Standard_Error": 0.013577295430878713
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-2.8b",
+            "Parameters_M": 2800,
+            "Mean_BPB_Delta": 0.14438619117908105,
+            "Standard_Error": 0.008756995390331338
+        },
+        {
+            "family": "Qwen 2.5",
+            "model": "Qwen_Qwen2.5-0.5B",
+            "Parameters_M": 500,
+            "Mean_BPB_Delta": 0.9680200054025011,
+            "Standard_Error": 0.21477624864766645
+        },
+        {
+            "family": "Qwen 2.5",
+            "model": "Qwen_Qwen2.5-1.5B",
+            "Parameters_M": 1500,
+            "Mean_BPB_Delta": 3.4040601739568443,
+            "Standard_Error": 0.26060344894226306
+        },
+        {
+            "family": "Qwen 2.5",
+            "model": "Qwen_Qwen2.5-3B",
+            "Parameters_M": 3000,
+            "Mean_BPB_Delta": 0.42612515858403227,
+            "Standard_Error": 0.13349797914535633
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "base_bpb": [
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-3b",
+            "Mean_Base_BPB": 1.1688827482310524
+        },
+        {
+            "family": "Gemma 3",
+            "model": "google_gemma-3-4b-it",
+            "Mean_Base_BPB": 1.6090747367215075
+        },
+        {
+            "family": "Llama 3.2",
+            "model": "meta-llama_Llama-3.2-3B",
+            "Mean_Base_BPB": 1.1990604439685153
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-2.8b",
+            "Mean_Base_BPB": 1.4960089700251475
+        },
+        {
+            "family": "Qwen 2.5",
+            "model": "Qwen_Qwen2.5-3B",
+            "Mean_Base_BPB": 1.101485894417386
+        }
+    ],
+    "mean_base_linear_separability": [
+        {
+            "family": "BLOOM",
+            "model": "bigscience_bloom-3b",
+            "Mean_Base_Probe_Acc": 0.8601971507072449,
+            "Standard_Error": 0.0
+        },
+        {
+            "family": "Gemma 3",
+            "model": "google_gemma-3-4b-it",
+            "Mean_Base_Probe_Acc": 0.810994130373001,
+            "Standard_Error": 0.0
+        },
+        {
+            "family": "Llama 3.2",
+            "model": "meta-llama_Llama-3.2-3B",
+            "Mean_Base_Probe_Acc": 0.8832804322242737,
+            "Standard_Error": 0.0
+        },
+        {
+            "family": "Pythia",
+            "model": "EleutherAI_pythia-2.8b",
+            "Mean_Base_Probe_Acc": 0.4955698445439339,
+            "Standard_Error": 0.0
+        },
+        {
+            "family": "Qwen 2.5",
+            "model": "Qwen_Qwen2.5-3B",
+            "Mean_Base_Probe_Acc": 0.8630182445049286,
+            "Standard_Error": 0.0
+        }
+    ]
+}
