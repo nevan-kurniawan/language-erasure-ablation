@@ -1,4 +1,4 @@
-# Mechanistic Characterization of the English Bottleneck and Cross-Lingual Entanglement in LLMs
+# Pre-Training Distribution Drives Cross-Lingual Entanglement: A Linear Concept Ablation Study of the English Bottleneck in Sub-4B LLMs
 
 This repository contains the data and analysis pipeline to reproduce the findings presented in the paper: *Pre-Training Distribution Drives Cross-Lingual Entanglement: A Linear Concept Ablation Study of the English Bottleneck in Sub-4B LLMs*.
 
