@@ -1,6 +1,6 @@
 # Mechanistic Characterization of the English Bottleneck and Cross-Lingual Entanglement in LLMs
 
-This repository contains the data and analysis pipeline to reproduce the findings presented in the paper: *Mechanistic Characterization of the English Bottleneck and Cross-Lingual Entanglement in LLMs*.
+This repository contains the data and analysis pipeline to reproduce the findings presented in the paper: *Pre-Training Distribution Drives Cross-Lingual Entanglement: A Linear Concept Ablation Study of the English Bottleneck in Sub-4B LLMs*.
 
 <!-- ## Abstract
 Large Language Models (LLMs) operate under strict parameter capacity constraints, which frequently manifest as the Curse of Multilinguality. To circumvent this limitation, models often develop an English bottleneck, routing non-English inputs through English-centric latent representations to conserve parameter space, complete with its biases. However, it remains unclear whether this cross-lingual entanglement is a limitation of the transformer architecture, or a byproduct of a skewed pre-training data distribution. This study characterizes the latent topologies of five sub-4B model families (Pythia, Llama 3.2, Qwen 2.5, BLOOM, and Gemma 3). Using LEAst-squares Concept Erasure (LEACE), English and regional Austronesian concepts are linearly ablated to measure the subsequent generative degradation (Bits-Per-Byte delta) and structural collapse (Probe Accuracy delta) of the Indonesian language representation. 
