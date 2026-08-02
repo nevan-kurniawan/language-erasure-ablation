@@ -36,7 +36,7 @@ For immediate reproducibility, the raw generative and structural ablation data (
 
 If you wish to re-run the heavy activation harvesting and LEACE matrix fitting pipeline from scratch, you can access the original generation code via Kaggle:
 
-* **Kaggle Notebook:** https://www.kaggle.com/code/nnkurniawan/concept-erasure-ablation
+* **Kaggle Notebook:** [The direct link to the notebook has been temporarily withheld to preserve double-blind peer review integrity. It will be restored upon publication]
 
 **To reproduce the data generation:**
 
