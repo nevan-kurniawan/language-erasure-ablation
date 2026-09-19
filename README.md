@@ -2,11 +2,6 @@
 
 This repository contains the data and analysis pipeline to reproduce the findings presented in the paper: *Pre-Training Distribution Drives Cross-Lingual Entanglement: A Linear Concept Ablation Study of the English Bottleneck in Sub-4B LLMs*.
 
-<!-- ## Abstract
-Large Language Models (LLMs) operate under strict parameter capacity constraints, which frequently manifest as the Curse of Multilinguality. To circumvent this limitation, models often develop an English bottleneck, routing non-English inputs through English-centric latent representations to conserve parameter space, complete with its biases. However, it remains unclear whether this cross-lingual entanglement is a limitation of the transformer architecture, or a byproduct of a skewed pre-training data distribution. This study characterizes the latent topologies of five sub-4B model families (Pythia, Llama 3.2, Qwen 2.5, BLOOM, and Gemma 3). Using LEAst-squares Concept Erasure (LEACE), English and regional Austronesian concepts are linearly ablated to measure the subsequent generative degradation (Bits-Per-Byte delta) and structural collapse (Probe Accuracy delta) of the Indonesian language representation. 
-
-The experimental data indicates that while finite capacity drives the necessity for compression, dataset distribution strongly influences the geometric allocation strategy. Strictly monolingual models (Pythia) conserve capacity by treating zero-shot foreign tokens as unstructured out-of-distribution noise. Under English-dominant or unbalanced distributions (Llama 3.2, Qwen 2.5), models resolve parameter starvation by forcing Indonesian to act as a highly entangled, lossy projection of the English backbone, causing catastrophic generative collapse (up to 1.005 Bits-Per-Byte increase) upon ablation. Conversely, intentionally balanced architectures (BLOOM, Gemma 3) equitably distribute their limited parameter budget, constructing robust, orthogonal subspaces that mitigate entanglement. These findings suggest that downstream vulnerabilities, such as cross-lingual jailbreaking and Western-centric cultural bias, are deeply correlated with an English-dominant training distribution. Consequently, true alignment may require more equitable data balancing during pre-training to achieve geometric independence, rather than superficial post-training interventions. -->
-
 ## Repository Structure
 
 * `data/`: Contains the raw ablation metrics (200 `.csv` files) generated from the Kaggle environment. 
@@ -36,7 +31,7 @@ For immediate reproducibility, the raw generative and structural ablation data (
 
 If you wish to re-run the heavy activation harvesting and LEACE matrix fitting pipeline from scratch, you can access the original generation code via Kaggle:
 
-* **Kaggle Notebook:** [The direct link to the notebook has been temporarily withheld to preserve double-blind peer review integrity. It will be restored upon publication]
+* **Kaggle Notebook:** https://www.kaggle.com/code/nnkurniawan/concept-erasure-ablation
 
 **To reproduce the data generation:**
 
